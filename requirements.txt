@@ -1,4 +1,7 @@
-voila
 geemap
-leafmap
-
+earthengine-api
+voila
+jupyter
+numpy
+pandas
+matplotlib
